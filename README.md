@@ -12,6 +12,8 @@
    Azure Databricks, 
    AWS Sagemaker, Glue, Athena, Lambda 
    
-- 📫  reach out to me @ anuragbhardwajai@gmail.com
+- 📫  reach out to 
+- https://www.linkedin.com/in/anuragbhardwajai/
+- anuragbhardwajai@gmail.com
 
 - ⚡ Interests: Chess, Badminton
