@@ -6,13 +6,12 @@
    exploring Genetic Algorithms(Optimization algorithms) majorly on Supply Chain and Retail
 
 - 🤔 I’m good in Python,
--  PySpark,
--  SQL, 
--  Flask application development
--  Azure Databricks, 
--  AWS Sagemaker, Glue, Athena, Lambda 
-
-- 💬 Ask me about above skills and my work I will be happy to answer them.
-- 📫 How to reach me: mail me @ anuragbhardwajai@gmail.com
+   PySpark,
+   SQL, 
+   Flask application development
+   Azure Databricks, 
+   AWS Sagemaker, Glue, Athena, Lambda 
+   
+- 📫  reach out to me @ anuragbhardwajai@gmail.com
 
 - ⚡ Interests: Chess, Badminton
