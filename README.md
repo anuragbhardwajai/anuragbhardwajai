@@ -8,11 +8,11 @@
 - 🤔 I’m good in Python,
    PySpark,
    SQL, 
-   Flask application development
+   Flask application development,
    Azure Databricks, 
    AWS Sagemaker, Glue, Athena, Lambda 
    
-- 📫  reach out to 
+- 📫  reach me out on
 - https://www.linkedin.com/in/anuragbhardwajai/
 - anuragbhardwajai@gmail.com
 
