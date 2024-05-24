@@ -1,4 +1,4 @@
-### Hi there, I am a Senior Data Scientist and Researcher 👋
+### Hi there, I am a Lead Data Scientist and a Researcher/Learner 👋
 
 - 🔭 I’m currently working on Data Science and Machine Learning Project Development
 
