@@ -1,19 +1,25 @@
-### Hi there, I am a Lead Data Scientist and a Researcher/Learner 👋
+###Hi there! I'm Anurag Bhardwaj 👋
+Lead Data Scientist | Researcher | Lifelong Learner
+🔭 Current Projects
+I am a Lead Data Scientist currently working full-time for an organization. Additionally, I work part-time as a visiting faculty and instructor in Data Science and MLOps. I'm actively engaged in developing cutting-edge Data Science and Machine Learning projects, sharing my knowledge, and helping others grow in the field.
 
-- 🔭 I’m currently working on Data Science and Machine Learning Project Development. Also contributing as Data Science and MLOps intructor.
+🌱 Exploration and Learning
+I'm delving into the fascinating world of Conversational AI and Generative AI models, such as GPT and Llama, focusing on parameter tuning to enhance their capabilities. Additionally, I'm exploring:
 
-- 🌱 I’m currently learning Graph Database- Neo4j and
-   exploring Genetic Algorithms(Optimization algorithms) majorly on Supply Chain and Retail
+Graph Databases (Neo4j)
+Genetic Algorithms (with applications in Supply Chain and Retail Optimization)
+💻 Technical Expertise
+I bring a wealth of experience in various technologies, including:
 
-- 🤔 I’m good in Python,
-   PySpark,
-   SQL, 
-   Flask application development,
-   Azure Databricks, 
-   AWS Sagemaker, Glue, Athena, Lambda 
-   
-- 📫  reach me out on
-- https://www.linkedin.com/in/anuragbhardwajai/
-- anuragbhardwajai@gmail.com
+Programming Languages: Python, PySpark, SQL
+Web Development: Flask application development
+Cloud Platforms: Azure Databricks, AWS Sagemaker, Glue, Athena, Lambda
+📫 Connect with Me
+LinkedIn
+Email
+⚡ Interests
+Beyond my professional life, I have a passion for:
 
-- ⚡ Interests: Chess(1800+ chess.com), Badminton, Swimming
+Chess: Achieved a rating of 1800+ on chess.com
+Badminton: Enjoy playing and staying active
+Swimming: A great way to relax and stay fit
