@@ -8,6 +8,7 @@ I am a Lead Data Scientist currently working full-time for an organization. Addi
 I'm delving into the fascinating world of Conversational AI and Generative AI models, such as GPT and Llama, focusing on parameter tuning to enhance their capabilities. Additionally, I'm exploring:
 
 . Graph Databases (Neo4j)
+
 . Genetic Algorithms (with applications in Supply Chain and Retail Optimization)
 
 ## 💻 Technical Expertise
@@ -21,10 +22,14 @@ I bring a wealth of experience in various technologies, including:
 
 ## 📫 Connect with Me
 . LinkedIn
+
 . Email
 
 ## ⚡ Interests
 Beyond my professional life, I have a passion for:
+
 . Chess: Achieved a rating of 1800+ on chess.com
+
 . Badminton: Enjoy playing and staying active
+
 . Swimming: A great way to relax and stay fit
