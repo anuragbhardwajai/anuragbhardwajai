@@ -14,7 +14,9 @@ I'm delving into the fascinating world of Conversational AI and Generative AI mo
 I bring a wealth of experience in various technologies, including:
 
 . Programming Languages: Python, PySpark, SQL
+
 . Web Development: Flask application development
+
 . Cloud Platforms: Azure, AWS, Databricks, Sagemaker, MLStudio
 
 ## 📫 Connect with Me
