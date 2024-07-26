@@ -24,7 +24,7 @@ I bring a wealth of experience in various technologies, including:
 ## ⚡ Interests
 Beyond my professional life, I have a passion for:
 
-. Chess: Achieved a rating of 1800+ on chess.com
+. Chess: 1800+ rated on chess.com
 
 . Badminton: Enjoy playing and staying active
 
