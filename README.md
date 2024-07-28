@@ -12,7 +12,7 @@ I bring a wealth of experience in various technologies, including:
 
 . Programming Languages: Python, PySpark, SQL
 
-. Web Development: Flask application development
+. AI/ML: Data Science, Machine Learning, MLOps, Computer Vision and GenAI
 
 . Cloud Platforms: Azure, AWS, Databricks, Sagemaker, MLStudio
 
